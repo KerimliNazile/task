@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    background-image: url(https://static1.squarespace.com/static/57c5e022197aea4e35e90381/57c6fa378419c2380d1efe89/582cc5a420099eb6f3730858/1528927335749/Dark_CakeWhole_1.jpg?format=1000w);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+ }
+ .hisse1{
+    color: antiquewhite;
+    font-size: 80px;
+    margin-left: 800px;
+ }
+ .hisse2{
+    color: antiquewhite;
+    font-size: 70px;
+    margin-left: 600px;
+ }
+ .hisse3{
+    color: cadetblue;
+    font-size: 20px;
+    margin-left: 45% ;
+    text-align: center;
+    width: 150px;
+    padding-top: 10px;
+    height: 30px;
+
+
+
+ }
+ .image1{
+    width:300px;
+    height:300px;
+ }
+ .image2{
+    height:300px;
+    width:300px;
+ }
+.image3{
+    height:300px;
+    width:300px;
+}
+.hisse{
+    background-color: white;
+    height: 1200px;
+    width:1800px;
+    margin:12px;
+
+}
+.text1{
+    border: 1px solid brown;
+    width: 300px;
+    display:inline-block ;
+
+}
+.text2{
+    border: 1px solid brown;
+    width:300px;
+    display: inline-block;
+}
+.test3{
+    border: 1px solid brown;
+    width:300px;
+    display: inline-block;
+}
+.hisse3:hover{
+    background-color: black;
+}
+.sp_1{
+    color: rebeccapurple ;
+}
+
+.txt_1{
+    border: 6px solid green;
+    display: inline-block;
+}
+.qrup2{
+    border: 7px solid blue;
+    display: inline-block;
+}
+.fa-solid.fa-bars{
+    color: white;
+    margin: left 95%;
+    font-size:70px;
+    margin-top: 5px;
+
+}
+.qrup1{
+    margin-top: 900px;
+}
+.hisse3{
+    height: 100px;
+    width: 200px;
+
+}
+.sp_2{ border: 1px solid brown;
+    width:300px;
+    display: inline-block;}
